@@ -2,7 +2,10 @@
 ![ss](https://github.com/abhay0933/Kommunicate-assignment/assets/127731916/8c519b79-20c7-4444-9469-cb18522741a4)
 
 ## Hosted Link - https://abhay0933.github.io/Kommnicate/
-Task 2 - Return the value of param
+
+
+## Task 2 - Return the value of param
+
 function getUrlParameterValue(url, parameter) {
 var newurl=new URL(url);
 val= newUrl.searchParams.get(parameter);
