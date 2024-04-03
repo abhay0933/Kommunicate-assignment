@@ -2,7 +2,7 @@
 ![ui](https://github.com/abhay0933/Kommunicate-assignment/assets/127731916/f8e5454b-b10d-4ab7-a802-e52887cce1c4)
 
 
-## Hosted Link - https://abhay0933.github.io/Kommnicate/
+## Hosted Link -https://abhay0933.github.io/Kommunicate-assignment/
 
 
 ## Task 2 - Return the value of param
