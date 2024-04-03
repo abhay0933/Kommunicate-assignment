@@ -1,5 +1,6 @@
 ## UI ScreenShot
-![ss](https://github.com/abhay0933/Kommunicate-assignment/assets/127731916/8c519b79-20c7-4444-9469-cb18522741a4)
+![ui](https://github.com/abhay0933/Kommunicate-assignment/assets/127731916/f8e5454b-b10d-4ab7-a802-e52887cce1c4)
+
 
 ## Hosted Link - https://abhay0933.github.io/Kommnicate/
 
